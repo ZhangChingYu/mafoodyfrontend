@@ -1,0 +1,17 @@
+export default {
+    white: '#ffffff',
+    black: '#000000',
+    primary: '#f77',
+    blue: '#8ae',
+    bgColor: '#FFFFA4',
+    header: '#26255C',
+    theme_red: '#d22630',
+    theme_yellow: '#f1c400',
+    theme_purple: '#bb29bb',
+    transparent_theme_purple: '#bb29bb44',
+    light_blue_purple:'#ccff',
+    theme_blue: '#0097a9',
+    transparent_theme_blue: '#0097a977',
+    light_yellow: '#efc',
+    light_purple:'#eeeeff',
+};
